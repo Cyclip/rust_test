@@ -1,5 +1,6 @@
 [package]
 name = "rust_test"
+path = "bin/structs_test_2.rs"
 version = "0.1.0"
 authors = ["Cyclip <40525455+Cyclip@users.noreply.github.com>"]
 edition = "2018"
