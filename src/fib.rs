@@ -34,6 +34,7 @@ fn gen_fib(n: i32) -> Vec<u128> {
         vec.push(
             vec[vec.len() - 1] + vec[vec.len() - 2]
         );
+        vec = vec[(vec.len() - 2)..];
     }
 
     return vec;
