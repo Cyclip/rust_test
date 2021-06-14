@@ -1,5 +1,5 @@
 [package]
-name = "my-project"
+name = "thing"
 version = "0.1.0"
 authors = ["Cyclip <40525455+Cyclip@users.noreply.github.com>"]
 edition = "2018"
